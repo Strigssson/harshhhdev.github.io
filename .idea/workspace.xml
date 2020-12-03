@@ -26,10 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d852121-fb32-41a8-8343-6a2e9625e6bd" name="Default Changelist" comment="- test of HTML checker">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/htmlcheck.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/htmlcheck.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3d852121-fb32-41a8-8343-6a2e9625e6bd" name="Default Changelist" comment="- test of HTML checker" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +37,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1l9YEkW3Vmgo1vNC7Fm0P1HZ8K8" />
   <component name="ProjectViewState">
@@ -63,7 +61,7 @@
       <updated>1607010668334</updated>
       <workItem from="1607010671231" duration="315000" />
       <workItem from="1607015075838" duration="489000" />
-      <workItem from="1607017320525" duration="2755000" />
+      <workItem from="1607017320525" duration="3069000" />
     </task>
     <task id="LOCAL-00001" summary="- connection webstorm - github">
       <created>1607011116061</created>
@@ -121,7 +119,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607020270151</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="- test of HTML checker">
+      <created>1607020615333</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607020615333</updated>
+    </task>
+    <task id="LOCAL-00010" summary="- test of HTML checker">
+      <created>1607020751626</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1607020751626</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,13 +173,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607010964699" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1607020273775">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1607020754516">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607020273775" />
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607020499046">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607020754516" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607020712977">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1607020499046" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1607020712977" />
   </component>
 </project>
