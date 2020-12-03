@@ -27,7 +27,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d852121-fb32-41a8-8343-6a2e9625e6bd" name="Default Changelist" comment="- test of HTML checker">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +62,7 @@
       <updated>1607010668334</updated>
       <workItem from="1607010671231" duration="315000" />
       <workItem from="1607015075838" duration="489000" />
+      <workItem from="1607017320525" duration="773000" />
     </task>
     <task id="LOCAL-00001" summary="- connection webstorm - github">
       <created>1607011116061</created>
@@ -108,7 +109,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="origin/Strigsson-master" />
                       </list>
                     </value>
                   </entry>
